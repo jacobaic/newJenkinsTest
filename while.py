@@ -3,4 +3,4 @@ fruits = ['apple', 'orange', 'banana']
 index = 0
 while (index < len(fruits)):
 	index = index + 1
-print fruits[index -1]
+	print fruits[index]
