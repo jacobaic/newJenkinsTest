@@ -2,7 +2,8 @@ fruits = ['apple', 'orange', 'banana']
 myfruits=''
 index = 0
 while (index < len(fruits)):
-	myfruits = myfruits + fruits[index]
+	myfruits = myfruits
 	index = index + 1
 
 print myfruits
+
